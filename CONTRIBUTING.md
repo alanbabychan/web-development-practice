@@ -1,10 +1,10 @@
 **Contributor guide**
 
-1.Make changes locally
-2.Fork the repository.
-3.Using the command line:
-4.Fork the repo so that you can make your changes without affecting the original project until you're ready to merge them.
-5.Create a working branch and start with your changes!
+1. Make changes locally
+2. Fork the repository.
+3. Using the command line:
+4. Fork the repo so that you can make your changes without affecting the original project until you're ready to merge them.
+5. Create a working branch and start with your changes!
    git branch a-descriptive-name
    git checkout name-for-your-branch
    
