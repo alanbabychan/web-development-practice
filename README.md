@@ -2,7 +2,7 @@
 Creating a complete guid for Fullstack-web-development  
 
 
-*Contributor guide*
+## *Contributor guide*
 
 1. Make changes locally
 2. Fork the repository.
